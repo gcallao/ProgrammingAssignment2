@@ -1,4 +1,4 @@
-## In this assignment we have 02 functions that help us to make an matrix, 
+## In this assignment we have 02 functions that help us to make a matrix, 
 ## checking its invertibility, and help us to calculate the inverse of the matrix,
 ## storing it in the cache for next callings, achieving this way the optimization 
 ## of the computing resources.
